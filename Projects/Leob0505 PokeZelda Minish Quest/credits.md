@@ -22,11 +22,12 @@ However, you are not alone. The **Yiga Clan** and the **Sooga Clan** have begun 
 * **Hyrulean Forms:** Regional variants unique to this ROMHack!
     * *Example:* Torchic appears as a regional Cucco.
     * *Example:* Mudkip appears as a regional Zora.
-* **Mashup Locations:** Explore a world where regions collide in a whimsical *Legend of Zelda* inspired setting! Rustboro City becomes "Rust Clock Town," Petalburg City becomes "Petalburg Ranch," and much more.
+    * *Example:* Treecko appears as a regional Lizalfos.
+* **Mashup Locations:** Explore a world where regions collide in a whimsical *Legend of Zelda* inspired setting! Rustboro City becomes "Rust Clock Town," Petalburg City becomes "Petalburg Ranch", and much more.
 
 ## Project Status & Usage
 **Current Status:** Work in Progress (WIP).
-* Currently, the exterior tilesets and gameplay are finished from the start of the game up to Rustboro City (approx. 10% of the final game).
+* Currently, the exterior tilesets and gameplay are finished from the start of the game up to Dewford Town (approx. 20% of the final game).
 
 I do not have a set ETA for the full release, and it will likely take a few years to complete. However, **I am releasing my assets as Open-Source in this repository as I finish them.** You can view the source code and build the current version here, in case you're curious to see what it looks like in-game:
 [https://github.com/lbsbezerra/pokeemerald-pokezelda](https://github.com/lbsbezerra/pokeemerald-pokezelda)
@@ -36,13 +37,15 @@ This project wouldn't be possible without the work of these talented artists:
 
 * **El Espriteador**
 * **Bilsu Art**
+* **Brandon Fazbear**
 * **llshadow**
 * **vol** (for the start menu)
 * **mudskip** (for the ui_main_menu)
+* **missiri** (for the exclamation_mark when you're encountering other trainers)
 
 ### ⚠️ Usage Notice
 If you use any assets from this repository for your own ROM Hack, **you MUST credit the following creators:**
-> **El Espriteador, Bilsu Art, llshadow, vol, mudskip, and me (leob0505)**
+> **El Espriteador, Bilsu Art, Brandon Fazbear, llshadow, vol, mudskip, missiri, and me (leob0505)**
 
 If I have missed anyone's name in the credits, please reach out to me and I will add them immediately!
 
