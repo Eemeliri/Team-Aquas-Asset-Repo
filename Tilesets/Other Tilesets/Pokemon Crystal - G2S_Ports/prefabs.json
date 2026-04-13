@@ -1,0 +1,3777 @@
+[
+  {
+    "name": "Johto_4x2_House",
+    "width": 4,
+    "height": 2,
+    "primary_tileset": "gTileset_GSC_Primary",
+    "secondary_tileset": "gTileset_GSC_Roof",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 515,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 516,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 2,
+        "y": 0,
+        "metatile_id": 516,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 3,
+        "y": 0,
+        "metatile_id": 517,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 224,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 5,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 2,
+        "y": 1,
+        "metatile_id": 225,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 3,
+        "y": 1,
+        "metatile_id": 227,
+        "collision": 1,
+        "elevation": 0
+      }
+    ]
+  },
+  {
+    "name": "Johto_PokeCenter",
+    "width": 4,
+    "height": 4,
+    "primary_tileset": "gTileset_GSC_Primary",
+    "secondary_tileset": "gTileset_GSC_Roof",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 523,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 524,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 2,
+        "y": 0,
+        "metatile_id": 524,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 3,
+        "y": 0,
+        "metatile_id": 525,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 531,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 532,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 2,
+        "y": 1,
+        "metatile_id": 532,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 3,
+        "y": 1,
+        "metatile_id": 533,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 0,
+        "y": 2,
+        "metatile_id": 208,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 2,
+        "metatile_id": 209,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 2,
+        "y": 2,
+        "metatile_id": 209,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 3,
+        "y": 2,
+        "metatile_id": 211,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 0,
+        "y": 3,
+        "metatile_id": 224,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 3,
+        "metatile_id": 5,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 2,
+        "y": 3,
+        "metatile_id": 196,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 3,
+        "y": 3,
+        "metatile_id": 227,
+        "collision": 1,
+        "elevation": 0
+      }
+    ]
+  },
+  {
+    "name": "Johto_Gym",
+    "width": 6,
+    "height": 4,
+    "primary_tileset": "gTileset_GSC_Primary",
+    "secondary_tileset": "gTileset_GSC_Roof",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 526,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 527,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 2,
+        "y": 0,
+        "metatile_id": 527,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 3,
+        "y": 0,
+        "metatile_id": 527,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 4,
+        "y": 0,
+        "metatile_id": 527,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 5,
+        "y": 0,
+        "metatile_id": 544,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 534,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 535,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 2,
+        "y": 1,
+        "metatile_id": 535,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 3,
+        "y": 1,
+        "metatile_id": 535,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 4,
+        "y": 1,
+        "metatile_id": 535,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 5,
+        "y": 1,
+        "metatile_id": 552,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 0,
+        "y": 2,
+        "metatile_id": 180,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 2,
+        "metatile_id": 181,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 2,
+        "y": 2,
+        "metatile_id": 190,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 3,
+        "y": 2,
+        "metatile_id": 173,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 4,
+        "y": 2,
+        "metatile_id": 182,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 5,
+        "y": 2,
+        "metatile_id": 183,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 0,
+        "y": 3,
+        "metatile_id": 188,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 3,
+        "metatile_id": 189,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 2,
+        "y": 3,
+        "metatile_id": 5,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 3,
+        "y": 3,
+        "metatile_id": 189,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 4,
+        "y": 3,
+        "metatile_id": 189,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 5,
+        "y": 3,
+        "metatile_id": 191,
+        "collision": 1,
+        "elevation": 0
+      }
+    ]
+  },
+  {
+    "name": "Johto_SmallShack",
+    "width": 4,
+    "height": 3,
+    "primary_tileset": "gTileset_GSC_Primary",
+    "secondary_tileset": "gTileset_GSC_Roof",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 636,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 637,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 2,
+        "y": 0,
+        "metatile_id": 637,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 3,
+        "y": 0,
+        "metatile_id": 639,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 652,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 653,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 2,
+        "y": 1,
+        "metatile_id": 653,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 3,
+        "y": 1,
+        "metatile_id": 655,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 0,
+        "y": 2,
+        "metatile_id": 241,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 2,
+        "metatile_id": 6,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 2,
+        "y": 2,
+        "metatile_id": 242,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 3,
+        "y": 2,
+        "metatile_id": 236,
+        "collision": 1,
+        "elevation": 0
+      }
+    ]
+  },
+  {
+    "name": "Johto_LargeShack",
+    "width": 6,
+    "height": 3,
+    "primary_tileset": "gTileset_GSC_Primary",
+    "secondary_tileset": "gTileset_GSC_Roof",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 636,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 637,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 2,
+        "y": 0,
+        "metatile_id": 637,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 3,
+        "y": 0,
+        "metatile_id": 637,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 4,
+        "y": 0,
+        "metatile_id": 637,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 5,
+        "y": 0,
+        "metatile_id": 639,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 652,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 653,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 2,
+        "y": 1,
+        "metatile_id": 653,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 3,
+        "y": 1,
+        "metatile_id": 653,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 4,
+        "y": 1,
+        "metatile_id": 653,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 5,
+        "y": 1,
+        "metatile_id": 655,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 0,
+        "y": 2,
+        "metatile_id": 233,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 2,
+        "metatile_id": 234,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 2,
+        "y": 2,
+        "metatile_id": 6,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 3,
+        "y": 2,
+        "metatile_id": 235,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 4,
+        "y": 2,
+        "metatile_id": 242,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 5,
+        "y": 2,
+        "metatile_id": 236,
+        "collision": 1,
+        "elevation": 0
+      }
+    ]
+  },
+  {
+    "name": "Kanto_4x3_House",
+    "width": 4,
+    "height": 3,
+    "primary_tileset": "gTileset_GSC_Primary",
+    "secondary_tileset": "gTileset_GSC_Roof",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 704,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 710,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 2,
+        "y": 0,
+        "metatile_id": 710,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 3,
+        "y": 0,
+        "metatile_id": 711,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 722,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 709,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 2,
+        "y": 1,
+        "metatile_id": 708,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 3,
+        "y": 1,
+        "metatile_id": 725,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 0,
+        "y": 2,
+        "metatile_id": 280,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 2,
+        "metatile_id": 7,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 2,
+        "y": 2,
+        "metatile_id": 300,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 3,
+        "y": 2,
+        "metatile_id": 287,
+        "collision": 0,
+        "elevation": 3
+      }
+    ]
+  },
+  {
+    "name": "Kanto_6x4_Generic",
+    "width": 6,
+    "height": 4,
+    "primary_tileset": "gTileset_GSC_Primary",
+    "secondary_tileset": "gTileset_GSC_Roof",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 620,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 621,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 2,
+        "y": 0,
+        "metatile_id": 621,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 3,
+        "y": 0,
+        "metatile_id": 621,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 4,
+        "y": 0,
+        "metatile_id": 621,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 5,
+        "y": 0,
+        "metatile_id": 622,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 628,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 629,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 2,
+        "y": 1,
+        "metatile_id": 629,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 3,
+        "y": 1,
+        "metatile_id": 629,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 4,
+        "y": 1,
+        "metatile_id": 629,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 5,
+        "y": 1,
+        "metatile_id": 630,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 0,
+        "y": 2,
+        "metatile_id": 288,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 2,
+        "metatile_id": 299,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 2,
+        "y": 2,
+        "metatile_id": 289,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 3,
+        "y": 2,
+        "metatile_id": 294,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 4,
+        "y": 2,
+        "metatile_id": 309,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 5,
+        "y": 2,
+        "metatile_id": 295,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 0,
+        "y": 3,
+        "metatile_id": 304,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 3,
+        "metatile_id": 308,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 2,
+        "y": 3,
+        "metatile_id": 7,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 3,
+        "y": 3,
+        "metatile_id": 300,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 4,
+        "y": 3,
+        "metatile_id": 308,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 5,
+        "y": 3,
+        "metatile_id": 311,
+        "collision": 0,
+        "elevation": 3
+      }
+    ]
+  },
+  {
+    "name": "Kanto_6x4_Generic2",
+    "width": 6,
+    "height": 4,
+    "primary_tileset": "gTileset_GSC_Primary",
+    "secondary_tileset": "gTileset_GSC_Roof",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 620,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 621,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 2,
+        "y": 0,
+        "metatile_id": 621,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 3,
+        "y": 0,
+        "metatile_id": 621,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 4,
+        "y": 0,
+        "metatile_id": 621,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 5,
+        "y": 0,
+        "metatile_id": 622,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 628,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 629,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 2,
+        "y": 1,
+        "metatile_id": 629,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 3,
+        "y": 1,
+        "metatile_id": 629,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 4,
+        "y": 1,
+        "metatile_id": 629,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 5,
+        "y": 1,
+        "metatile_id": 630,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 0,
+        "y": 2,
+        "metatile_id": 288,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 2,
+        "metatile_id": 309,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 2,
+        "y": 2,
+        "metatile_id": 306,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 3,
+        "y": 2,
+        "metatile_id": 299,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 4,
+        "y": 2,
+        "metatile_id": 309,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 5,
+        "y": 2,
+        "metatile_id": 295,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 0,
+        "y": 3,
+        "metatile_id": 304,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 3,
+        "metatile_id": 7,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 2,
+        "y": 3,
+        "metatile_id": 308,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 3,
+        "y": 3,
+        "metatile_id": 308,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 4,
+        "y": 3,
+        "metatile_id": 308,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 5,
+        "y": 3,
+        "metatile_id": 311,
+        "collision": 0,
+        "elevation": 3
+      }
+    ]
+  },
+  {
+    "name": "Kanto_Gym",
+    "width": 6,
+    "height": 4,
+    "primary_tileset": "gTileset_GSC_Primary",
+    "secondary_tileset": "gTileset_GSC_Roof",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 728,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 729,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 2,
+        "y": 0,
+        "metatile_id": 729,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 3,
+        "y": 0,
+        "metatile_id": 729,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 4,
+        "y": 0,
+        "metatile_id": 729,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 5,
+        "y": 0,
+        "metatile_id": 735,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 736,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 737,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 2,
+        "y": 1,
+        "metatile_id": 737,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 3,
+        "y": 1,
+        "metatile_id": 737,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 4,
+        "y": 1,
+        "metatile_id": 737,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 5,
+        "y": 1,
+        "metatile_id": 743,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 0,
+        "y": 2,
+        "metatile_id": 744,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 2,
+        "metatile_id": 276,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 2,
+        "y": 2,
+        "metatile_id": 205,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 3,
+        "y": 2,
+        "metatile_id": 206,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 4,
+        "y": 2,
+        "metatile_id": 276,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 5,
+        "y": 2,
+        "metatile_id": 751,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 0,
+        "y": 3,
+        "metatile_id": 272,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 3,
+        "metatile_id": 300,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 2,
+        "y": 3,
+        "metatile_id": 300,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 3,
+        "y": 3,
+        "metatile_id": 300,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 4,
+        "y": 3,
+        "metatile_id": 7,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 5,
+        "y": 3,
+        "metatile_id": 279,
+        "collision": 1,
+        "elevation": 0
+      }
+    ]
+  },
+  {
+    "name": "Kanto_4x2_House",
+    "width": 4,
+    "height": 2,
+    "primary_tileset": "gTileset_GSC_Primary",
+    "secondary_tileset": "gTileset_GSC_Roof",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 728,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 734,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 2,
+        "y": 0,
+        "metatile_id": 734,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 3,
+        "y": 0,
+        "metatile_id": 735,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 745,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 7,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 2,
+        "y": 1,
+        "metatile_id": 300,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 3,
+        "y": 1,
+        "metatile_id": 750,
+        "collision": 1,
+        "elevation": 0
+      }
+    ]
+  },
+  {
+    "name": "Kanto_PokeCenter",
+    "width": 4,
+    "height": 4,
+    "primary_tileset": "gTileset_GSC_Primary",
+    "secondary_tileset": "gTileset_GSC_Roof",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 620,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 621,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 2,
+        "y": 0,
+        "metatile_id": 621,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 3,
+        "y": 0,
+        "metatile_id": 622,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 628,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 629,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 2,
+        "y": 1,
+        "metatile_id": 629,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 3,
+        "y": 1,
+        "metatile_id": 630,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 0,
+        "y": 2,
+        "metatile_id": 296,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 2,
+        "metatile_id": 309,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 2,
+        "y": 2,
+        "metatile_id": 299,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 3,
+        "y": 2,
+        "metatile_id": 303,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 0,
+        "y": 3,
+        "metatile_id": 304,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 3,
+        "metatile_id": 7,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 2,
+        "y": 3,
+        "metatile_id": 198,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 3,
+        "y": 3,
+        "metatile_id": 311,
+        "collision": 1,
+        "elevation": 0
+      }
+    ]
+  },
+  {
+    "name": "Kanto_6x4_FakeHouse",
+    "width": 6,
+    "height": 2,
+    "primary_tileset": "gTileset_GSC_Primary",
+    "secondary_tileset": "gTileset_GSC_Roof",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 728,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 734,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 2,
+        "y": 0,
+        "metatile_id": 734,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 3,
+        "y": 0,
+        "metatile_id": 734,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 4,
+        "y": 0,
+        "metatile_id": 734,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 5,
+        "y": 0,
+        "metatile_id": 735,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 745,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 281,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 2,
+        "y": 1,
+        "metatile_id": 285,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 3,
+        "y": 1,
+        "metatile_id": 281,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 4,
+        "y": 1,
+        "metatile_id": 300,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 5,
+        "y": 1,
+        "metatile_id": 750,
+        "collision": 1,
+        "elevation": 0
+      }
+    ]
+  },
+  {
+    "name": "Kanto_4x4_House",
+    "width": 4,
+    "height": 4,
+    "primary_tileset": "gTileset_GSC_Primary",
+    "secondary_tileset": "gTileset_GSC_Roof",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 776,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 777,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 2,
+        "y": 0,
+        "metatile_id": 777,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 3,
+        "y": 0,
+        "metatile_id": 783,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 784,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 785,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 2,
+        "y": 1,
+        "metatile_id": 785,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 3,
+        "y": 1,
+        "metatile_id": 791,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 0,
+        "y": 2,
+        "metatile_id": 792,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 2,
+        "metatile_id": 276,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 2,
+        "y": 2,
+        "metatile_id": 267,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 3,
+        "y": 2,
+        "metatile_id": 799,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 0,
+        "y": 3,
+        "metatile_id": 272,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 3,
+        "metatile_id": 300,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 2,
+        "y": 3,
+        "metatile_id": 7,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 3,
+        "y": 3,
+        "metatile_id": 271,
+        "collision": 1,
+        "elevation": 0
+      }
+    ]
+  },
+  {
+    "name": "Kanto_4x4_Generic",
+    "width": 4,
+    "height": 4,
+    "primary_tileset": "gTileset_GSC_Primary",
+    "secondary_tileset": "gTileset_GSC_Roof",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 620,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 621,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 2,
+        "y": 0,
+        "metatile_id": 621,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 3,
+        "y": 0,
+        "metatile_id": 622,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 628,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 629,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 2,
+        "y": 1,
+        "metatile_id": 629,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 3,
+        "y": 1,
+        "metatile_id": 630,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 0,
+        "y": 2,
+        "metatile_id": 296,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 2,
+        "metatile_id": 309,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 2,
+        "y": 2,
+        "metatile_id": 309,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 3,
+        "y": 2,
+        "metatile_id": 303,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 0,
+        "y": 3,
+        "metatile_id": 304,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 3,
+        "metatile_id": 7,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 2,
+        "y": 3,
+        "metatile_id": 308,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 3,
+        "y": 3,
+        "metatile_id": 311,
+        "collision": 1,
+        "elevation": 0
+      }
+    ]
+  },
+  {
+    "name": "Johto_4x4_House",
+    "width": 4,
+    "height": 4,
+    "primary_tileset": "gTileset_GSC_Primary",
+    "secondary_tileset": "gTileset_GSC_Roof",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 520,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 521,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 2,
+        "y": 0,
+        "metatile_id": 521,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 3,
+        "y": 0,
+        "metatile_id": 522,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 528,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 529,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 2,
+        "y": 1,
+        "metatile_id": 529,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 3,
+        "y": 1,
+        "metatile_id": 530,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 0,
+        "y": 2,
+        "metatile_id": 172,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 2,
+        "metatile_id": 173,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 2,
+        "y": 2,
+        "metatile_id": 182,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 3,
+        "y": 2,
+        "metatile_id": 183,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 0,
+        "y": 3,
+        "metatile_id": 188,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 3,
+        "metatile_id": 5,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 2,
+        "y": 3,
+        "metatile_id": 189,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 3,
+        "y": 3,
+        "metatile_id": 191,
+        "collision": 1,
+        "elevation": 0
+      }
+    ]
+  },
+  {
+    "name": "Johto_Gatehouse",
+    "width": 4,
+    "height": 4,
+    "primary_tileset": "gTileset_GSC_Primary",
+    "secondary_tileset": "gTileset_GSC_Roof",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 617,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 618,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 2,
+        "y": 0,
+        "metatile_id": 618,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 3,
+        "y": 0,
+        "metatile_id": 619,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 625,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 626,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 2,
+        "y": 1,
+        "metatile_id": 626,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 3,
+        "y": 1,
+        "metatile_id": 627,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 0,
+        "y": 2,
+        "metatile_id": 216,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 2,
+        "metatile_id": 217,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 2,
+        "y": 2,
+        "metatile_id": 218,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 3,
+        "y": 2,
+        "metatile_id": 219,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 0,
+        "y": 3,
+        "metatile_id": 224,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 3,
+        "metatile_id": 225,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 2,
+        "y": 3,
+        "metatile_id": 225,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 3,
+        "y": 3,
+        "metatile_id": 227,
+        "collision": 1,
+        "elevation": 0
+      }
+    ]
+  },
+  {
+    "name": "JohtoVerticalGatehouse",
+    "width": 4,
+    "height": 6,
+    "primary_tileset": "gTileset_GSC_Primary",
+    "secondary_tileset": "gTileset_GSC_Roof",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 137,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 137,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 2,
+        "y": 0,
+        "metatile_id": 137,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 3,
+        "y": 0,
+        "metatile_id": 137,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 142,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 426,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 2,
+        "y": 1,
+        "metatile_id": 426,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 3,
+        "y": 1,
+        "metatile_id": 142,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 0,
+        "y": 2,
+        "metatile_id": 598,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 2,
+        "metatile_id": 599,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 2,
+        "y": 2,
+        "metatile_id": 599,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 3,
+        "y": 2,
+        "metatile_id": 616,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 0,
+        "y": 3,
+        "metatile_id": 606,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 3,
+        "metatile_id": 607,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 2,
+        "y": 3,
+        "metatile_id": 607,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 3,
+        "y": 3,
+        "metatile_id": 624,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 0,
+        "y": 4,
+        "metatile_id": 208,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 4,
+        "metatile_id": 209,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 2,
+        "y": 4,
+        "metatile_id": 218,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 3,
+        "y": 4,
+        "metatile_id": 219,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 0,
+        "y": 5,
+        "metatile_id": 224,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 5,
+        "metatile_id": 5,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 2,
+        "y": 5,
+        "metatile_id": 225,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 3,
+        "y": 5,
+        "metatile_id": 227,
+        "collision": 1,
+        "elevation": 0
+      }
+    ]
+  },
+  {
+    "name": "JohtoVerticalGatehouse",
+    "width": 4,
+    "height": 6,
+    "primary_tileset": "gTileset_GSC_Primary",
+    "secondary_tileset": "gTileset_GSC_Roof",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 137,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 137,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 2,
+        "y": 0,
+        "metatile_id": 137,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 3,
+        "y": 0,
+        "metatile_id": 137,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 142,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 426,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 2,
+        "y": 1,
+        "metatile_id": 426,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 3,
+        "y": 1,
+        "metatile_id": 142,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 0,
+        "y": 2,
+        "metatile_id": 617,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 2,
+        "metatile_id": 618,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 2,
+        "y": 2,
+        "metatile_id": 618,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 3,
+        "y": 2,
+        "metatile_id": 619,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 0,
+        "y": 3,
+        "metatile_id": 625,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 3,
+        "metatile_id": 626,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 2,
+        "y": 3,
+        "metatile_id": 626,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 3,
+        "y": 3,
+        "metatile_id": 627,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 0,
+        "y": 4,
+        "metatile_id": 172,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 4,
+        "metatile_id": 173,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 2,
+        "y": 4,
+        "metatile_id": 182,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 3,
+        "y": 4,
+        "metatile_id": 183,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 0,
+        "y": 5,
+        "metatile_id": 188,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 5,
+        "metatile_id": 5,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 2,
+        "y": 5,
+        "metatile_id": 189,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 3,
+        "y": 5,
+        "metatile_id": 191,
+        "collision": 1,
+        "elevation": 0
+      }
+    ]
+  },
+  {
+    "name": "LargeRock",
+    "width": 2,
+    "height": 2,
+    "primary_tileset": "",
+    "secondary_tileset": "gTileset_GSC_ice_path",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 536,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 543,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 544,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 551,
+        "collision": 1,
+        "elevation": 0
+      }
+    ]
+  },
+  {
+    "name": "DoubleLongrock",
+    "width": 2,
+    "height": 2,
+    "primary_tileset": "",
+    "secondary_tileset": "gTileset_GSC_ice_path",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 534,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 535,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 534,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 535,
+        "collision": 1,
+        "elevation": 0
+      }
+    ]
+  },
+  {
+    "name": "LadderUp2",
+    "width": 2,
+    "height": 2,
+    "primary_tileset": "",
+    "secondary_tileset": "gTileset_GSC_ice_path",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 556,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 580,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 567,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 518,
+        "collision": 0,
+        "elevation": 3
+      }
+    ]
+  },
+  {
+    "name": "Stairs",
+    "width": 2,
+    "height": 2,
+    "primary_tileset": "",
+    "secondary_tileset": "gTileset_GSC_ice_path",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 569,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 563,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 538,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 539,
+        "collision": 0,
+        "elevation": 3
+      }
+    ]
+  },
+  {
+    "name": "LadderDown",
+    "width": 2,
+    "height": 2,
+    "primary_tileset": "",
+    "secondary_tileset": "gTileset_GSC_ice_path",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 582,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 560,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 575,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 519,
+        "collision": 0,
+        "elevation": 3
+      }
+    ]
+  },
+  {
+    "name": "2RocksTop",
+    "width": 2,
+    "height": 2,
+    "primary_tileset": "",
+    "secondary_tileset": "gTileset_GSC_ice_path",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 533,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 533,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 604,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 594,
+        "collision": 0,
+        "elevation": 3
+      }
+    ]
+  },
+  {
+    "name": "2RocksRight",
+    "width": 2,
+    "height": 2,
+    "primary_tileset": "",
+    "secondary_tileset": "gTileset_GSC_ice_path",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 596,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 540,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 601,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 533,
+        "collision": 0,
+        "elevation": 3
+      }
+    ]
+  },
+  {
+    "name": "3RocksBottomRight",
+    "width": 2,
+    "height": 2,
+    "primary_tileset": "",
+    "secondary_tileset": "gTileset_GSC_ice_path",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 571,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 533,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 533,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 532,
+        "collision": 0,
+        "elevation": 3
+      }
+    ]
+  },
+  {
+    "name": "2RocksBottomLeft",
+    "width": 2,
+    "height": 2,
+    "primary_tileset": "",
+    "secondary_tileset": "gTileset_GSC_ice_path",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 533,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 583,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 534,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 535,
+        "collision": 0,
+        "elevation": 3
+      }
+    ]
+  },
+  {
+    "name": "1RockTopRight",
+    "width": 2,
+    "height": 2,
+    "primary_tileset": "",
+    "secondary_tileset": "gTileset_GSC_ice_path",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 611,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 532,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 609,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 587,
+        "collision": 0,
+        "elevation": 3
+      }
+    ]
+  },
+  {
+    "name": "1RockBottomRight",
+    "width": 2,
+    "height": 2,
+    "primary_tileset": "",
+    "secondary_tileset": "gTileset_GSC_ice_path",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 598,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 609,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 610,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 533,
+        "collision": 1,
+        "elevation": 0
+      }
+    ]
+  },
+  {
+    "name": "1RockTopLeft",
+    "width": 2,
+    "height": 2,
+    "primary_tileset": "",
+    "secondary_tileset": "gTileset_GSC_ice_path",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 533,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 612,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 600,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 605,
+        "collision": 0,
+        "elevation": 3
+      }
+    ]
+  },
+  {
+    "name": "1RockBottomLeft",
+    "width": 2,
+    "height": 2,
+    "primary_tileset": "",
+    "secondary_tileset": "gTileset_GSC_ice_path",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 610,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 562,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 540,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 609,
+        "collision": 0,
+        "elevation": 3
+      }
+    ]
+  },
+  {
+    "name": "LongRockBottom",
+    "width": 2,
+    "height": 2,
+    "primary_tileset": "",
+    "secondary_tileset": "gTileset_GSC_ice_path",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 613,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 577,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 534,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 535,
+        "collision": 0,
+        "elevation": 3
+      }
+    ]
+  },
+  {
+    "name": "HoleBottomLeft",
+    "width": 2,
+    "height": 2,
+    "primary_tileset": "",
+    "secondary_tileset": "gTileset_GSC_ice_path",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 589,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 559,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 517,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 608,
+        "collision": 0,
+        "elevation": 3
+      }
+    ]
+  },
+  {
+    "name": "2x2Floor",
+    "width": 2,
+    "height": 2,
+    "primary_tileset": "",
+    "secondary_tileset": "gTileset_GSC_ice_path",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 591,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 594,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 597,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 603,
+        "collision": 0,
+        "elevation": 3
+      }
+    ]
+  },
+  {
+    "name": "HoleTopRight",
+    "width": 2,
+    "height": 2,
+    "primary_tileset": "",
+    "secondary_tileset": "gTileset_GSC_ice_path",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 597,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 517,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 573,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 570,
+        "collision": 0,
+        "elevation": 3
+      }
+    ]
+  },
+  {
+    "name": "2RocksTopLeft",
+    "width": 2,
+    "height": 2,
+    "primary_tileset": "",
+    "secondary_tileset": "gTileset_GSC_ice_path",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 534,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 535,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 533,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 598,
+        "collision": 0,
+        "elevation": 3
+      }
+    ]
+  },
+  {
+    "name": "2RocksLeft",
+    "width": 2,
+    "height": 2,
+    "primary_tileset": "",
+    "secondary_tileset": "gTileset_GSC_ice_path",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 533,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 608,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 533,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 607,
+        "collision": 0,
+        "elevation": 3
+      }
+    ]
+  },
+  {
+    "name": "LadderUp1",
+    "width": 2,
+    "height": 2,
+    "primary_tileset": "",
+    "secondary_tileset": "gTileset_GSC_ice_path",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 581,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 603,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 606,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 518,
+        "collision": 0,
+        "elevation": 3
+      }
+    ]
+  },
+  {
+    "name": "1RockTopRight2",
+    "width": 2,
+    "height": 2,
+    "primary_tileset": "",
+    "secondary_tileset": "gTileset_GSC_ice_path",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 611,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 532,
+        "collision": 1,
+        "elevation": 0
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 609,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 587,
+        "collision": 0,
+        "elevation": 3
+      }
+    ]
+  },
+  {
+    "name": "3RocksTopRight",
+    "width": 2,
+    "height": 2,
+    "primary_tileset": "",
+    "secondary_tileset": "gTileset_GSC_ice_path",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 533,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 533,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 608,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 533,
+        "collision": 0,
+        "elevation": 3
+      }
+    ]
+  },
+  {
+    "name": "CornerTopLeft",
+    "width": 2,
+    "height": 2,
+    "primary_tileset": "",
+    "secondary_tileset": "gTileset_GSC_ice_path",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 536,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 520,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 545,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 554,
+        "collision": 0,
+        "elevation": 3
+      }
+    ]
+  },
+  {
+    "name": "CornerTopRight",
+    "width": 2,
+    "height": 2,
+    "primary_tileset": "",
+    "secondary_tileset": "gTileset_GSC_ice_path",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 520,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 543,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 554,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 550,
+        "collision": 0,
+        "elevation": 3
+      }
+    ]
+  },
+  {
+    "name": "EdgeLeft",
+    "width": 2,
+    "height": 2,
+    "primary_tileset": "",
+    "secondary_tileset": "gTileset_GSC_ice_path",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 545,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 554,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 545,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 554,
+        "collision": 0,
+        "elevation": 3
+      }
+    ]
+  },
+  {
+    "name": "EdgeRight",
+    "width": 2,
+    "height": 2,
+    "primary_tileset": "",
+    "secondary_tileset": "gTileset_GSC_ice_path",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 554,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 550,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 554,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 550,
+        "collision": 0,
+        "elevation": 3
+      }
+    ]
+  },
+  {
+    "name": "EdgeTop",
+    "width": 2,
+    "height": 2,
+    "primary_tileset": "",
+    "secondary_tileset": "gTileset_GSC_ice_path",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 520,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 520,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 554,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 554,
+        "collision": 0,
+        "elevation": 3
+      }
+    ]
+  },
+  {
+    "name": "CornerBottomLeft",
+    "width": 2,
+    "height": 2,
+    "primary_tileset": "",
+    "secondary_tileset": "gTileset_GSC_ice_path",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 545,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 554,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 544,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 547,
+        "collision": 0,
+        "elevation": 3
+      }
+    ]
+  },
+  {
+    "name": "CornerBottomRight",
+    "width": 2,
+    "height": 2,
+    "primary_tileset": "",
+    "secondary_tileset": "gTileset_GSC_ice_path",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 554,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 550,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 548,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 551,
+        "collision": 0,
+        "elevation": 3
+      }
+    ]
+  },
+  {
+    "name": "EdgeBottom",
+    "width": 2,
+    "height": 2,
+    "primary_tileset": "",
+    "secondary_tileset": "gTileset_GSC_ice_path",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 553,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 553,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 538,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 537,
+        "collision": 0,
+        "elevation": 3
+      }
+    ]
+  },
+  {
+    "name": "InnerCornerLeft",
+    "width": 2,
+    "height": 2,
+    "primary_tileset": "",
+    "secondary_tileset": "gTileset_GSC_ice_path",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 555,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 565,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 566,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 541,
+        "collision": 0,
+        "elevation": 3
+      }
+    ]
+  },
+  {
+    "name": "EdgeTop2",
+    "width": 2,
+    "height": 2,
+    "primary_tileset": "",
+    "secondary_tileset": "gTileset_GSC_ice_path",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 555,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 555,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 548,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 547,
+        "collision": 0,
+        "elevation": 3
+      }
+    ]
+  },
+  {
+    "name": "InnerCornerRight",
+    "width": 2,
+    "height": 2,
+    "primary_tileset": "",
+    "secondary_tileset": "gTileset_GSC_ice_path",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 557,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 555,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 542,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 558,
+        "collision": 0,
+        "elevation": 3
+      }
+    ]
+  },
+  {
+    "name": "Floor2",
+    "width": 2,
+    "height": 2,
+    "primary_tileset": "",
+    "secondary_tileset": "gTileset_GSC_ice_path",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 585,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 579,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 574,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 586,
+        "collision": 0,
+        "elevation": 3
+      }
+    ]
+  },
+  {
+    "name": "Floor3",
+    "width": 2,
+    "height": 2,
+    "primary_tileset": "",
+    "secondary_tileset": "gTileset_GSC_ice_path",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 590,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 608,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 593,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 602,
+        "collision": 0,
+        "elevation": 3
+      }
+    ]
+  },
+  {
+    "name": "LedgeLeftCorner",
+    "width": 2,
+    "height": 2,
+    "primary_tileset": "",
+    "secondary_tileset": "gTileset_GSC_ice_path",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 522,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 588,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 521,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 531,
+        "collision": 0,
+        "elevation": 3
+      }
+    ]
+  },
+  {
+    "name": "LedgeBottom",
+    "width": 2,
+    "height": 2,
+    "primary_tileset": "",
+    "secondary_tileset": "gTileset_GSC_ice_path",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 613,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 572,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 529,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 528,
+        "collision": 0,
+        "elevation": 3
+      }
+    ]
+  },
+  {
+    "name": "CaveDoor",
+    "width": 2,
+    "height": 2,
+    "primary_tileset": "",
+    "secondary_tileset": "gTileset_GSC_ice_path",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 515,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 514,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 552,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 552,
+        "collision": 0,
+        "elevation": 3
+      }
+    ]
+  },
+  {
+    "name": "LedgeRight",
+    "width": 2,
+    "height": 2,
+    "primary_tileset": "",
+    "secondary_tileset": "gTileset_GSC_ice_path",
+    "metatiles": [
+      {
+        "x": 0,
+        "y": 0,
+        "metatile_id": 578,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 0,
+        "metatile_id": 525,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 0,
+        "y": 1,
+        "metatile_id": 582,
+        "collision": 0,
+        "elevation": 3
+      },
+      {
+        "x": 1,
+        "y": 1,
+        "metatile_id": 525,
+        "collision": 0,
+        "elevation": 3
+      }
+    ]
+  }
+]
